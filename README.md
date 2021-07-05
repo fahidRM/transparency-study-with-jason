@@ -11,7 +11,7 @@ This repository is a basic setup to get started with a modified jason & n-jason 
 - Include `stag.jar` and the respective `jason-xxxx-mod.jar` files as dependencies in your project.
 - This codebase was intended to be used along with the transparency tool (see: https://github.com/fahidRM/agent-transparency-tool).
 - Firstly, launch and start the transparency tool then run your MAS.
-- Included in this repository are two examples, these are `counter.py` and `counter_bdi.asl.py`. These files can be run using the commands: `python3 counter.py` and `counter_bdi.asl.py` respectively.
+- This repository also contains a sample code that can be run out of the box
 
 
 ## Using the Transparency tool with your own project
