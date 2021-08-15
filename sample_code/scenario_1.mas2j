@@ -7,7 +7,7 @@ MAS ia_submission {
 		rover.RoverWorld("mas2j_file=scenario_1.mas2j", "scenario_id=graded-scenario-1")
 	
 	agents:
-		blank [ capacity =3, scan_range=3, mindinspector="gui(cycle,html,history)"] agentArchClass  SomewhatTransparentAgents.JASON.STAgArch;
+		blank [ capacity =3, scan_range=3] agentArchClass  SomewhatTransparentAgents.JASON.STAgArch;
 	aslSourcePath:
 		"src/asl";
 }
